@@ -1,0 +1,5 @@
+{
+  "enabled": true,
+  "cron": "0 9 * * 1-5",
+  "goal": "Brief du matin — points ouverts et prochaine action"
+}

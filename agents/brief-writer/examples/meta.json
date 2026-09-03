@@ -1,0 +1,6 @@
+{
+  "inputKind": "prompt",
+  "inputText": "Brief de la revue produit de lundi : 3 bugs P1, délai sprint +2j.",
+  "outputKind": "file",
+  "outputText": "brief-revue.md + brief-revue.docx"
+}
